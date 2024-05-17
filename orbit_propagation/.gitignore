@@ -1,0 +1,7 @@
+# General
+__pycache__
+.env
+
+# Specific
+tests/data
+data
